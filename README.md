@@ -1,2 +1,2 @@
 # Python
-Very useful technology to learn to be industry ready!
+Very useful technology to become industry ready!
